@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-	<img src="assets/preview.webp"/>
+	<img src="assets/catwalk.webp"/>
 </p>
 
 ## Previews
@@ -34,7 +34,7 @@
 </details>
 
 ## 💝 Current Maintainer(s)
-
+- [DarkModeDevotee](https://github.com/DarkModeDevotee)
 
 
 
